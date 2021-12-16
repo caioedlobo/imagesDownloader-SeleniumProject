@@ -1,0 +1,84 @@
+1630110051017	geckodriver	INFO	Listening on 127.0.0.1:55453
+1630110054105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofile6f9ucu"
+1630110054334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofile6f9ucu\\search.json.mozlz4", (void 0)))
+1630110056180	Marionette	INFO	Listening on port 56652
+1630110056254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110127953	Marionette	INFO	Stopped listening on port 56652
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630110130324	geckodriver	INFO	Listening on 127.0.0.1:56747
+1630110133396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofilewYWBCn"
+1630110133630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofilewYWBCn\\search.json.mozlz4", (void 0)))
+1630110135236	Marionette	INFO	Listening on port 64322
+1630110135441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110180295	Marionette	INFO	Stopped listening on port 64322
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+a\\Local\\Temp\\rust_mozprofileNFRz9F"
+1630110175373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileNFRz9F\\search.json.mozlz4", (void 0)))
+1630110177090	Marionette	INFO	Listening on port 63042
+1630110177200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110239541	Marionette	INFO	Stopped listening on port 63041630110240530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileN66mFi"
+1630110240762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileN66mFi\\search.json.mozlz4", (void 0)))
+1630110242604	Marionette	INFO	Listening on port 53660
+1630110242691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110265857	Marionette	INFO	Stopped listening on port 53661630110266863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofile6eWHvD"
+1630110267092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofile6eWHvD\\search.json.mozlz4", (void 0)))
+1630110268991	Marionette	INFO	Listening on port 65415
+1630110269040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110347671	Marionette	INFO	Stopped listening on port 65411630110348404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileCvimPC"
+1630110348635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileCvimPC\\search.json.mozlz4", (void 0)))
+1630110350398	Marionette	INFO	Listening on port 63834
+1630110350459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110483041	Marionette	INFO	Stopped listening on port 63831630110483756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileS27kOl"
+1630110483987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileS27kOl\\search.json.mozlz4", (void 0)))
+1630110485876	Marionette	INFO	Listening on port 65277
+1630110485907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110629382	Marionette	INFO	Stopped listening on port 65271630110630417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileywq0Wo"
+1630110630645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileywq0Wo\\search.json.mozlz4", (void 0)))
+1630110632418	Marionette	INFO	Listening on port 56031
+1630110632482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110653248	Marionette	INFO	Stopped listening on port 56031630110654590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofilentcHx3"
+1630110654814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofilentcHx3\\search.json.mozlz4", (void 0)))
+1630110656706	Marionette	INFO	Listening on port 50230
+1630110656757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630110697145	Marionette	INFO	Stopped listening on port 50230
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+a\\Local\\Temp\\rust_mozprofileQgZ7J6"
+1630110695328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileQgZ7J6\\search.json.mozlz4", (void 0)))
+1630110697199	Marionette	INFO	Listening on port 52225
+1630110697259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1630110958216	Marionette	INFO	Stopped listening on port 52221630110958971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofile2cU3Dd"
+1630110959200	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofile2cU3Dd\\search.json.mozlz4", (void 0)))
+1630110960943	Marionette	INFO	Listening on port 56189
+1630110961017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1630111029175	Marionette	INFO	Stopped listening on port 56181630111030263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileexl7YH"
+1630111030507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Caio\\AppData\\Local\\Temp\\rust_mozprofileexl7YH\\search.json.mozlz4", (void 0)))
+1630111032511	Marionette	INFO	Listening on port 63022
+1630111032950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630111222620	Marionette	INFO	Stopped listening on port 63022
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
