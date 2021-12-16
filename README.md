@@ -1,6 +1,7 @@
 # Savee - Images Downloader
 
-Projeto utilizando Selenium Webdriver para baixar álbuns de imagens de contas no website <https:www.savee.it>
+Project using Selenium Webdriver to download images from someone's profile on <https:www.savee.it> website.
+
 </div align="center">
   <img src="https://cdn.discordapp.com/attachments/637058557254041600/921180829168840704/Savee_it_image_downloader3.png"/>
 </div>
