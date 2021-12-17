@@ -1,9 +1,3 @@
-import time
-import urllib.request
-
-
-from pynput.keyboard import Key, Controller
-
 from pageObjects.HomePage import HomePage
 from pageObjects.PastePage import PastePage
 from utilities.BaseClass import BaseClass
